@@ -73,6 +73,35 @@
       "email": "loriprice@grupoli.com",
       "phone": "+1 (915) 511-3754",
       "address": "904 Canal Avenue, Canoochee, Pennsylvania, 8762"
+    },
+    {
+      "_id": "5e5d8a3314b603b9ef876879",
+      "index": 6,
+      "isActive": false,
+      "salary": "$3,752.40",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "green",
+      "name": "Marissa Hines",
+      "gender": "female",
+      "company": "SNORUS",
+      "email": "marissahines@snorus.com",
+      "phone": "+1 (870) 512-3865",
+      "address": "326 Montieth Street, Stouchsburg, Guam, 5638"
+    },
+    {
+      "_id": "5e5d8a3349fecb478c4037bc",
+      "index": 7,
+      "isActive": false,
+      "salary": "$1,792.48",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "brown",
+      "name": "Polly Payne",
+      "gender": "female",
+      "company": "STOCKPOST",
+      "email": "pollypayne@stockpost.com",
+      "phone": "+1 (997) 501-2848",
+      "address": "286 Canda Avenue, Yardville, Indiana, 5281"
     }
-   
   ]
